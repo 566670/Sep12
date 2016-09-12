@@ -9,6 +9,7 @@ public class Challenge {
 		System.out.println("gggg");
 		System.out.println("jjjj");
 		System.out.println("jjjj");
+		System.out.println();
 	}
 
 }
