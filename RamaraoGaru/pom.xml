@@ -3,4 +3,12 @@
   <groupId>Bankk</groupId>
   <artifactId>RamaraoGaru</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <configuration>
+		<url>http://localhost:8080/manager/text</url>
+		<server>TomcatServer</server>
+		<path>/mkyongWebApp</path>
+	</configuration>
+  
+  
+  
 </project>
